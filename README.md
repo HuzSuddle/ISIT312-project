@@ -1,5 +1,3 @@
-# ISIT312-Enat-Bank-Data-Lake-project
-
 # Enat Bank – Big Data Data Lake Project
 
 **Course:** ISIT312 – Big Data Management  
@@ -150,7 +148,14 @@ A Python-based CDC (Change Data Capture) simulation demonstrates incremental tra
 ## Repository Structure
 
 ```
-
+ISIT312-project/
+│
+├── Member5.zip
+├── Member6_Submission (2).zip
+├── Member7_Submission.zip
+├── Member9_Submission.zip
+├── README.md
+└── environment_matrix_and_runbook.md
 ```
 
 ## Execution Environment
@@ -280,11 +285,13 @@ These results demonstrate the functionality of the local prototype and do not re
 
 For additional technical details, refer to:
 
-- [`environment_matrix_and_runbook.md`](environment_matrix_and_runbook.md) – Environment configuration, setup instructions, execution commands and testing procedures.
-- `Member6_Submission (2).zip` – Batch processing pipeline.
-- `Member7_Submission.zip` – Analytical processing jobs and performance evaluation.
-- `Member9_Submission.zip` – Additional project deliverables.
-
+| File | Description |
+|---|---|
+| `Member5.zip` | Additional project submission |
+| `Member6_Submission (2).zip` | Batch ingestion, cleaning and Hive table implementation |
+| `Member7_Submission.zip` | Analytical processing, Hive and Spark jobs, performance evaluation and verification |
+| `Member9_Submission.zip` | Additional project submission |
+| `environment_matrix_and_runbook.md` | Environment setup, execution instructions, testing procedures and results |
 ---
 
 **Disclaimer:** This project was developed for academic purposes as part of ISIT312 – Big Data Management. It demonstrates a proposed Data Lake architecture through a local prototype and is not a production banking system.
