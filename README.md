@@ -140,7 +140,7 @@ A Python-based CDC (Change Data Capture) simulation demonstrates incremental tra
 - Supports testing with continuously arriving event files.
 
 ### 6. Performance Evaluation
-- Tests analytical jobs using small, large and extra-large datasets.
+-Evaluates Hive analytical jobs across small, large and extra-large datasets, with Spark SQL testing performed on the small dataset.
 - Records execution timings across multiple trials.
 - Compares Hive and Spark analytical results.
 - Verifies outputs against expected reference datasets.
