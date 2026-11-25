@@ -4,7 +4,6 @@
 **Project:** Enat Bank Data Lake Architecture and Implementation
 **Institution:** University of Wollongong in Dubai
 
-> Items marked **[CONFIRM]** could not be verified from the repository zip (it has no Member 8 submission, no diagram files and no interest-reporting results). Check each one with its owner, then delete the marker.
 
 ## Overview
 
